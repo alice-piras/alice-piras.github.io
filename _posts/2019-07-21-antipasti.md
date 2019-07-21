@@ -18,7 +18,7 @@ recipe:
   directions_markdown: |-
     1. Lava le verdure e l'insalata, taglia tutto a pezzettini e metti in una ciotola da portata
     2. Condisci con sale e olio extra vergine di oliva
-    3. Servi con olive e una deliziosa mozzarella di bufala
+    3. Servi con olive e una deliziosa mozzarella di bufala con basilico, pepe e olio extra vergine
 ---
 Buona alternativa se non hai tempo di cucinare ma vuoi comunque mangiare qualcosa di sano :)
 
