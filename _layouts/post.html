@@ -12,19 +12,19 @@ layout: default
 	</div>
 
 	<ul id="recipe" class="recipe-overview">
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+		<li title="Per quante persone">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+		<li title="Tempo di preparazione">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+		<li title="Tempo di cottura">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
 	</ul>
 
 	<div class="recipe-contents">
 		<div class="ingredients">
-			<h2>Ingredients</h2>
+			<h2>Ingredienti</h2>
 			{{ page.recipe.ingredients_markdown | markdownify }}
 		</div>
 
 		<div class="directions">
-			<h2>Directions</h2>
+			<h2>Preparazione</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
@@ -39,9 +39,9 @@ layout: default
 	</div>
 
 	<div class="cta">
-		<h2>More delicious recipes</h2>
-		<p>This is one of the many fantastic recipes available on this blog</p>
-		<div class="button"><a href="{{ site.baseurl }}/recipes">Check out more recipes</a></div>
+		<h2>Altre ricette</h2>
+		<p>Questa è solo una delle tante fantastiche ricette presenti in questo blog!</p>
+		<div class="button"><a href="{{ site.baseurl }}/recipes">Trova qui altre ricette</a></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}
 		<div id="disqus_thread"></div>
@@ -74,6 +74,6 @@ layout: default
 				event.preventDefault();
 				$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
 			}
-		});
+		})
 	});
 </script>
