@@ -9,14 +9,14 @@ recipe:
   prep: 10 minuti
   cook: nessuna
   ingredients_markdown: |-
-    * Per l'insalata (insalata verde, 1 peperone, 1 carota, noci a piacere, mais, 1 cetriolo, un po' di sale, olio extra vergine di oliva)Insalata verde
+    * Per l'insalata (insalata verde, 1 peperone, 1 carota, noci a piacere, mais, 1 cetriolo, un po' di sale, olio extra vergine di oliva)
     * Mozzarella di bufala
-    * olive
+    * Olive
     * Qualche fetta di pane
     
       
   directions_markdown: |-
-    1. Lava le verure e l'insalata, taglia tutto a pezzetti e metti in una ciotola da portata
+    1. Lava le verure e l'insalata, taglia tutto a pezzettini e metti in una ciotola da portata
     2. Condisci con sale e olio extra vergine di oliva
     3. Servi con olive e una deliziosa mozzarella di bufala
 ---
