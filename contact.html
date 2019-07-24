@@ -4,7 +4,8 @@ title: Contact
 <h1>Stiamo in contatto</h1>
 <p class="editable">Voglia di lasciarmi un messaggio?</p>
 
-<form method="post" action="{{ site.baseurl }}/contact-success/">
+<!-- <form method="post" action="{{ site.baseurl }}/contact-success/"> -->
+<form action="https://formspree.io/alice.piras@me.com" method="POST" />
 		<input type="hidden" name="_to" value="{{ site.data.email }}" />
 		<input type="text" name="_gotcha" style="display: none;">
 

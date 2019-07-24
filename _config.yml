@@ -4,7 +4,7 @@
 title: Cucina di sopravvivenza
 url: "https://alice-piras.github.io"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-144498974-1
 newsletter_action:
 disqus_shortname:
 
@@ -12,7 +12,7 @@ disqus_shortname:
 logo: /siteicon.png
 description: Alice scopre il fascino della cucina.
 author:
-  name:
+  name: Alice Piras
   email: alice.piras@me.com
   twitter: # twitter username without the @ symbol
 social:
@@ -88,3 +88,8 @@ _options:
   author_image:
     width: 400
     height: 400
+
+deploy: 
+  - git add .
+  - git commit -m "new blog Post"
+  - git push
