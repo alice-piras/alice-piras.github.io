@@ -1,38 +1,27 @@
 ---
-date: 2017-01-05
-title: Gingernut Cookies
+date: 2019-07-21
+title: Antipasti veloci
 categories:
-  - Cookies
-featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+  - antipasti
+featured_image: /images/antipasti00.jpg
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 2 persone
+  prep: 10 minuti
+  cook: nessuna
   ingredients_markdown: |-
-    * 200 g butter
-    * 1 cup sugar
-    * 1 cup golden syrup
-    * 3 cups flour
-    * 1 tablespoon ground ginger
-    * 1 teaspoon baking soda
+    * Per l'insalata (insalata verde, 1 peperone, 1 carota, noci a piacere, mais, 1 cetriolo, un po' di sale, olio extra vergine di oliva)
+    * Mozzarella di bufala
+    * Olive
+    * Qualche fetta di pane
+    
+      
   directions_markdown: |-
-    1. Pre heat oven to 350°F.
-    2. Cream the butter and the sugar.
-    3. Add the golden syrup and the dry ingredients.
-    4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
-    5. Bake at 350°F for 15 minutes.
-    6. Cool on a wire rack and keep in an airtight container once cold.
+    1. Lava le verdure e l'insalata, taglia tutto a pezzettini e metti in una ciotola da portata
+    2. Condisci con sale e olio extra vergine di oliva
+    3. Servi con olive e una deliziosa mozzarella di bufala con basilico, pepe e olio extra vergine
 ---
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+Buona alternativa se non hai tempo di cucinare ma vuoi comunque mangiare qualcosa di sano :)
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+![Mozzarella](/images/antipasti01.jpg)
 
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
-Delicious!
+![Insalata](/images/antipasti02.jpg)
